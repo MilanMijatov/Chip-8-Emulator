@@ -1,3 +1,5 @@
+/*  Copyright (c) 2019, MilanMijatov
+*/
 #include <SDL2/SDL.h>
 #include <stdio.h>
 #include <stdlib.h>

@@ -1,3 +1,5 @@
+/*  Copyright (c) 2019, MilanMijatov
+*/
 #include "CUnit/Basic.h"
 
 void sum_test();
